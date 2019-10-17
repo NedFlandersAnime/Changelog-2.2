@@ -1,0 +1,303 @@
+[h1][b]Changelog for 2.2[/b][/h1]
+
+This is going to be a pretty decent sizeable update this week. There is going to be a ton of new features extra additions bug fixes tweaks, refinements and more.
+Here is a list on what is changing in the update comming on the 17th with the wipe.
+Contact us me on [url=https://discord.gg/fHJRK7S]Discord.[/url]
+
+[list]
+
+[h1][b]Full Changelog[/b][/h1] 
+
+[b][u]New Pluggins Added:[/u][/b]
+[*]AntiNoobRaid
+[*]CustomUI
+[*]SkyTurrets
+[*]BoobyTraps
+[*]BradlyControl
+[*]Babel
+[*]Babel Chat
+[*]Poundbot
+[*]Poundbot Clans
+[*]Poundbot Chat Relay
+[*]Poundbot Raid Alerts
+
+[b][u]Updated Pluggins:[/u][/b]
+[*]Airstikes
+[*]ServerRewards
+[*]DiscordCore
+[*]ImageLibrary
+[*]GUIShop
+[*]SamSiteAuth
+[*]ServerRewards
+[*]ZombieHorde
+
+[b][u]Removed Plugins:[/u][/b]
+[*]
+
+[b][u]Airstrike[/u][/b]
+[*]Airstikes have been fixed, so you can now spend your Ingame Currecny on Airstrikes.
+	[*]Cost:
+	[*]Airstrike Cost - 10000
+	[*]SquadStrike's - 25000
+[*]Plane Height has been increased.
+[*]Plane speed has been slightly increased.
+[*]Plane engaging distance has been decreased.
+
+[b][u]AntiNoobRaid[/u][/b]
+[*]New Players Cant be raided or raid for 24 hours.
+
+[b][u]Botspawn[/u][/b]
+[*]Added More options for Bandits looks and weapons.
+[*]Added 2 more types of zombies that now have a differnt looks and loot.
+
+[b][u]GUIShop[/u][/b]
+[*]Tweaked Shop Prices
+[*]Rearranged Items in shop lists.
+[*]Fixed New Horse items not showing up in shop.
+
+[b][u]EntityLimit[/u][/b]
+[*]Limits have been added for a large list of items.
+[*]Limits are in accending order.
+	Example:
+	[*]Default
+		[*]All Tier Doors - 30
+		[*]Garage Door - 20
+		[*]Ladder Hatch - 20
+		[*]High External Walls - 100
+		[*]High External Gates - 3
+		[*]Test Generator - 15
+		[*]AutoTurret - 25
+		[*]SAM Sites - 5
+		[*]Shotgun Traps - 100
+		[*]Flame Turrets - 35
+		[*]TeslaCoil - 25
+		[*]Search Lights - 20
+		[*]Mining Quarry - 3
+		[*]Pump Jack - 3
+		[*]Furnace - 20
+		[*]Large Furnace - 10
+		[*]Refinery - 10
+		[*]SleepingBag - 30
+		[*]Bed - 30
+		[*]Small Stash - 20
+		[*]Small Box - 50
+		[*]Large Box - 50
+		[*]Coffin - 20
+	[*]Discord
+		[*]All Tier Doors - 50
+		[*]Garage Door - 50
+		[*]Ladder Hatch - 50
+		[*]High External Walls - 150
+		[*]High External Gates - 5
+		[*]Test Generator - 30
+		[*]AutoTurret - 35
+		[*]SAM Sites - 15
+		[*]Shotgun Traps - 150
+		[*]Search Lights - 50
+		[*]Mining Quarry - 3
+		[*]Pump Jack - 3
+		[*]Furnace - 30
+		[*]Large Furnace - 20
+		[*]Refinery - 15
+		[*]SleepingBag - 50
+		[*]Bed - 50
+		[*]Small Stash - 30
+		[*]Small Box - 75
+		[*]Large Box - 100
+		[*]Coffin - 30
+	[*]Donator
+		[*]All Tier Doors - 100
+		[*]Garage Door - 100
+		[*]Ladder Hatch - 100
+		[*]High External Walls - 200
+		[*]High External Gates - 10
+		[*]Test Generator - 50
+		[*]AutoTurret - 50
+		[*]SAM Site - 20
+		[*]Shotgun Traps - 200
+		[*]Search Light - 100
+		[*]Mining Quarry - 3
+		[*]Pump Jack - 3
+		[*]Furnace - 50
+		[*]Large Furnace - 30
+		[*]Refinery - 20
+		[*]SleepingBag - 100
+		[*]Bed - 100
+		[*]Small Stash - 100
+		[*]Small Box - 150
+		[*]Large Box - 200
+		[*]Coffin - 50
+	[*]Donator+
+		[*]All Tier Doors - No Limit
+		[*]Garage Door - No Limit
+		[*]Ladder Hatch - No Limit
+		[*]High External Walls - 500
+		[*]High External Gates - 20
+		[*]Test Generator - 100
+		[*]AutoTurret - 100
+		[*]SAM Sites - 30
+		[*]Shotgun Traps - 300
+		[*]Search Lights - 200
+		[*]Mining Quarry - 3
+		[*]Pump Jack - 3
+		[*]Furnace - 100
+		[*]Large Furnace - 50
+		[*]Refinery - 25
+		[*]SleepingBag - 200
+		[*]Bed - 200
+		[*]Small Stash - 300
+		[*]Small Box - 300
+		[*]Large Box - 350
+		[*]Coffin - 100
+
+[b][u]PoundBot[/u][/b]
+[*]You can Now get Raid Alerts.
+[*]How to sign up for Raid Alerts:
+	[*]First Type /pbreg "Discordname#9999" Ingame and receive a Pin.
+	[*]Next reply to PoundBot in Discord with the Pin you got Ingame.
+	[*]Done, you will now get PM's Everytime you get Attacked.
+
+[b][u]PoundBotChatRelay[/u][/b]
+[*]We now have a working Discord to Rust Server Chat Relay.
+[*]You can Communicate with players in the Rust Server and back in the #rust-server-chat Channel.
+
+[b][u]StackSizeController[/u][/b]
+[*]Stack Sizes have Been Changed and Tweaked.
+[*]Increased Stack Size for :
+	[*]Diesel from 20 to 100.
+	[*]Animal Fat from 5000 to 2500.
+	[*]Large Solar Panels from 10 to 20.
+	[*]Simple Light from 20 to 30.
+	[*]Flares from 20 to 30.
+	[*]Coffin from 10 to 20.
+	[*]Rug from 10 to 20.
+	[*]Bear Rug from 1 to 20.
+	[*]Stone Furnace from 1 to 20.
+	[*]Candy Decor from 10 to 20.
+	[*]Lollipop Decor from 10 to 20.
+[*]Decreased Stack Size for:
+	[*]Diving Tank from 20 to 1.
+	[*]Diving Mask from 20 to 1.
+	[*]Diving Fins from 20 to 1.
+	[*]High Velocity Arrow from 1000 to 500.
+	[*]Bone Arrow from 1000 to 500.
+	[*]Fire Arrow from 1000 to 500.
+	[*]12 Gauge Buckshot from 1000 to 500.
+	[*]12 Gauge Slug from 1000 to 500.
+	[*]40mm HE Grenade from 100 to 50.
+	[*]Incendiary Pistol Bullet from 1000 to 500.
+	[*]HV Pistol Ammo from 1000 to 500.
+	[*]Incendiary 5.56 Rifle Ammo from 1000 to 500.
+	[*]HV 5.56 Rifle Ammo from 1000 to 500.
+	[*]Rockets from 10 to 15.
+	[*]Incendiary Rockets from 10 to 15.
+	[*]High Velocity Rockets from 10 to 15.
+	[*]Smoke Rockets from 10 to 20.
+	[*]Blueberries from 100 to 50.
+	[*]Snap Trap from 10 to 30.
+	[*]Snowballs from 100 to 1.
+	[*]Metal Plate from 100 to 1.
+	[*]Electric Fuse from 20 to 10.
+	[*]Weapon Flashlight from 20 to 10.
+	[*]Rocks from 100 to 1.
+	[*]Gunpowder from 15000 to 10000.
+
+[b][u]SkyTurrets[/u][/b]
+[*]AutoTurrets Now Target All Types of Helis.(Minicopter, Scrap Transport, and Ch47)
+
+[b][u]ServerInfo[/u][/b]
+[*]Big Update tons of information added.
+
+[b][u]ServerRewards[/u][/b]
+[*]Added A Ton of items to the /s Shop.
+
+[b][u]NTeleportation[/u][/b]
+[*]Can no longer teleport on CargoShip
+[*]Home Limits Changed
+	[*]5 for Everyone
+	[*]8 for Donator
+	[*]10 for Donator+
+[*]Daily Home Teleport Limits Changed
+	[*]30 for Everyone
+	[*]40 for Donator
+	[*]50 for Donator+
+[*]Home Teleport Cooldowns Changed
+	[*]5 Minute Cooldown for Everyone
+	[*]4 Minute Cooldown for Donator
+	[*]3 Minute Cooldown for Donator+
+[*]Home Teleport Countdowns Changed
+	[*]20 Second Countdown for Everyone
+	[*]15 Second Countdown for Donator
+	[*]10 Second Countdown for Donator+
+[*]Home Teleport Bypass Price Increased from 100 to 1000
+[*]Daily Teleport Limits Changed
+	[*]30 for Everyone
+	[*]40 for Donator
+	[*]50 for Donator+
+[*]Teleport Cooldowns Changed
+	[*]5 Minute Cooldown for Everyone
+	[*]4 Minute Cooldown for Donator
+	[*]3 Minute Cooldown for Donator+
+[*]Teleport Countdowns Changed
+	[*]20 Second Countdown for Everyone
+	[*]15 Second Countdown for Donator
+	[*]10 Second Countdown for Donator+
+[*]Teleport Bypass Price Increased to 500
+[*]Daily Town Teleport Limits Changed
+	[*]30 for Everyone
+	[*]40 for Donator
+	[*]50 for Donator+
+[*]Teleport Cooldowns Changed
+	[*]5 Minute Cooldown for Everyone
+	[*]4 Minute Cooldown for Donator
+	[*]3 Minute Cooldown for Donator+
+[*]Teleport Countdowns Changed
+	[*]20 Second Countdown for Everyone
+	[*]15 Second Countdown for Donator
+	[*]10 Second Countdown for Donator+
+
+	
+[b][u]RustKits[/u]/b]
+[*]Added Zombie Kit
+[*]Added Bandit Kit Kit
+
+[b][u]SamSiteAuth[/u][/b]
+[*]SAMs will now target Patrol Helicopters.
+
+[b][u]HeliControl[/u][/b]
+[*]Patrol Helicopter Changes:
+	[*]Hull Health Increased from 10000 to 15500.
+	[*]Main Rotor Health Increased from 750 to 1300
+	[*]Tail Rotor Health Increased from 325 to 650 
+	[*]Gib Health decreased from 500 to 300.
+	[*]Speed Increased from 25 to 40 .
+	[*]Max Helicopter Time In minutes Increased to 30 minutes from 15 minutes.
+	[*]Max Range Increased to 350 from 300.
+	[*]Max Active Choppers Increased to 2.
+	[*]Rocket Explosion Radius Increased from 6 to 6.5.
+	[*]Rocket Explosion and Blunt Damage Decreased.
+	[*]Time Between Rockets Increased from .2 to 0.35.
+	[*]Turret Bullet Damage Decreased from 20 to 12.5.
+	[*]Turret Fire Rate Decreased from 1.25 to 1.5.
+	[*]Turret Burst Length Increased from 7.5 Seconds to 10 Seconds.
+	[*]Turret Accuracy Decreased from 2 to 4. (Higher = Less Accurate)
+
+[b][u]TurretConfig[/u][/b]
+[*]Flame Turret Changes:
+	[*]Arc has increased from 45 to 50
+	[*]Flame Radius has increased from 4-5
+
+[b][u]VehicleLicence[/u][/b]
+[*]Prices For Vehicles have been Tweaked Slightly:
+	[*]Dingy Incresed from 500 to 750.
+	[*]RHIB Increased from 2000 to 5000.
+	[*]Sedan Increased from 2000 to 3000.
+	[*]Hot Air Balloon Increased from 2500 to
+	[*]Minicopter Increased from 5000 to 7500
+	[*]Scrap Transport Helicopter Increased from 5000 to
+	[*]Chinook Increased from 100000 to 250000
+[*]Cooldowns For Vehicles have been adjusted:
+	[*]Minicopter Cooldown Lowered from 30 minutes to 15 minutes.
+	[*]Scrap Transport Helicopter Cooldown Lowered from 45 minutes to 30 minutes.
+	[*]Chinook Cooldown Increased from 50 minutes to 60 minutes.
+[*]Scrap Transport Helicopter Spawn distance decreased from 10 Meters to 8 Meters.
